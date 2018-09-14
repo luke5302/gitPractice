@@ -1,4 +1,7 @@
 /secrets
 password.txt
 testing.txt
+<<<<<<< HEAD
 text.txt
+=======
+>>>>>>> test
